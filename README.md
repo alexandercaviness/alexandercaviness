@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Alexander Caviness 👋
 
-<!--
-**alexandercaviness/alexandercaviness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Systems Integrator | Aspiring Front-End Developer | Air National Guard TSgt
 
-Here are some ideas to get you started:
+I'm an IT professional with experience in systems integration, enterprise IT support, and military leadership. I'm currently pursuing a Bachelor of Science in Computer Science while completing Codecademy's Front-End Developer Career Path.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Git & GitHub
+- Responsive Web Design
+
+### Certifications
+
+- CompTIA Security+
+- Secret Security Clearance
+- Airman Leadership School
+- Noncommissioned Officer Academy
+
+### Current Goals
+
+- Build professional front-end applications
+- Expand my JavaScript and React skills
+- Develop a portfolio of real-world projects
+- Transition into a Front-End Software Developer role
+
+### Connect with Me
+
+- GitHub: https://github.com/alexandercaviness
+- LinkedIn: *(Coming Soon)*
+
+> "Always learning. Always building."
