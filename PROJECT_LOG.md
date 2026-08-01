@@ -6,6 +6,16 @@ The purpose of this log is to track not only the projects I complete, but also t
 
 ---
 
+# Project Index
+
+| #   | Project                 | Technologies              | Status    |
+| --- | ----------------------- | ------------------------- | --------- |
+| 001 | Dasmoto's Arts & Crafts | HTML5, CSS3, Git, GitHub  | Completed |
+| 002 | CSS Cheat Sheet         | HTML5, CSS3, Git, GitHub, | Living    |
+|     |                         | Google Fonts, VS Code.    |           |
+
+---
+
 # Project 001 — Dasmoto's Arts & Crafts
 
 **Status:** Completed
@@ -23,11 +33,11 @@ The finished page includes a large photographic header and separate product sect
 
 ## Technologies
 
-* HTML5
-* CSS3
-* Git
-* GitHub
-* Visual Studio Code
+- HTML5
+- CSS3
+- Git
+- GitHub
+- Visual Studio Code
 
 ## What I Built
 
@@ -35,14 +45,14 @@ I created the webpage structure using HTML and styled the page using an external
 
 The page includes:
 
-* Main page header with a background image
-* Brushes section
-* Frames section
-* Paint section
-* Product images
-* Product descriptions
-* Pricing information
-* Custom typography and section styling
+- Main page header with a background image
+- Brushes section
+- Frames section
+- Paint section
+- Product images
+- Product descriptions
+- Pricing information
+- Custom typography and section styling
 
 ## Development Process
 
@@ -72,19 +82,19 @@ This helped me better understand CSS background images and gave me more experien
 
 This project strengthened my understanding of:
 
-* HTML document structure
-* HTML elements and attributes
-* External CSS stylesheets
-* CSS selectors
-* CSS properties
-* Typography
-* Images
-* Background images
-* Organizing webpage content
-* Translating a design specification into code
-* Troubleshooting CSS
-* Git version control
-* GitHub repositories
+- HTML document structure
+- HTML elements and attributes
+- External CSS stylesheets
+- CSS selectors
+- CSS properties
+- Typography
+- Images
+- Background images
+- Organizing webpage content
+- Translating a design specification into code
+- Troubleshooting CSS
+- Git version control
+- GitHub repositories
 
 I also learned that visual problems in a webpage often involve multiple CSS properties interacting with one another. Troubleshooting those problems requires isolating the relevant styles and understanding what each property is doing.
 
@@ -92,37 +102,37 @@ I also learned that visual problems in a webpage often involve multiple CSS prop
 
 **Front-End Development**
 
-* HTML5
-* CSS3
-* Page structure
-* Styling
-* Image implementation
+- HTML5
+- CSS3
+- Page structure
+- Styling
+- Image implementation
 
 **Development Workflow**
 
-* Visual Studio Code
-* Git
-* GitHub
-* Repository management
+- Visual Studio Code
+- Git
+- GitHub
+- Repository management
 
 **Professional Skills**
 
-* Following technical specifications
-* Troubleshooting
-* Problem solving
-* Attention to detail
-* Independent learning
+- Following technical specifications
+- Troubleshooting
+- Problem solving
+- Attention to detail
+- Independent learning
 
 ## What I Would Improve
 
 As I continue learning front-end development, I would like to revisit this project and explore improvements such as:
 
-* Responsive design
-* Improved page layout
-* Better semantic HTML
-* More consistent spacing
-* Mobile support
-* Accessibility improvements
+- Responsive design
+- Improved page layout
+- Better semantic HTML
+- More consistent spacing
+- Mobile support
+- Accessibility improvements
 
 Revisiting the project later will also allow me to compare my current development abilities with the skills I had when I first completed it.
 
@@ -141,19 +151,39 @@ GitHub:
 
 Current focus:
 
-* Building stronger CSS fundamentals
-* Improving visual styling
-* Understanding how CSS properties interact
-* Developing better front-end troubleshooting skills
+- Building stronger CSS fundamentals
+- Improving visual styling
+- Understanding how CSS properties interact
+- Developing better front-end troubleshooting skills
 
 ---
 
-# Project Index
+Project #002
+CSS Cheat Sheet
 
-| #   | Project                 | Technologies             | Status    |
-| --- | ----------------------- | ------------------------ | --------- |
-| 001 | Dasmoto's Arts & Crafts | HTML5, CSS3, Git, GitHub | Completed |
+Status:
+Completed
 
----
+Technologies:
+HTML5
+CSS3
+Google Fonts
+Git
+GitHub
+VS Code
 
-*This project log will be updated as I complete additional coursework, guided projects, and independent software development projects.*
+Skills Learned:
+• Tables
+• CSS organization
+• Typography
+• Google Fonts
+• Better styling
+• Page layout
+
+Challenge:
+Finding the right styles, colors, fonts, and font sizes that made it more appealing. Leared how to use rem to create font sizes.
+
+Result:
+Successfully created a reusable CSS reference webpage.
+
+_This project log will be updated as I complete additional coursework, guided projects, and independent software development projects._
